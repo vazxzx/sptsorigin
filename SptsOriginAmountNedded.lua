@@ -1,4 +1,4 @@
-
+-- make sure to add a comma at the end otherwise the script will error
 local AmountNeed = {
   Psy = {
     [1] = 1e15, -- 1Qa
